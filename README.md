@@ -1,2 +1,2 @@
 # da-consumer-care-specs
-ConsumerCare podspecs repo
+ConsumerCare podspecs repo.
